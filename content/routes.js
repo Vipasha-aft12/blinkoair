@@ -12,7 +12,7 @@ export const ROUTES = [
     "facts": [
       {
         "k": "Distance",
-        "v": "≈ 404 mi",
+        "v": "≈ 404 miles",
         "n": "ATL → MCO"
       },
       {
@@ -82,7 +82,7 @@ export const ROUTES = [
     "facts": [
       {
         "k": "Distance",
-        "v": "≈ 3,435 mi",
+        "v": "≈ 3,435 miles",
         "n": "BOS → CDG"
       },
       {
@@ -152,7 +152,7 @@ export const ROUTES = [
     "facts": [
       {
         "k": "Distance",
-        "v": "≈ 337 mi",
+        "v": "≈ 337 miles",
         "n": "LAX → SFO"
       },
       {
@@ -222,7 +222,7 @@ export const ROUTES = [
     "facts": [
       {
         "k": "Distance",
-        "v": "≈ 3,450 mi",
+        "v": "≈ 3,450 miles",
         "n": "JFK · EWR → LHR"
       },
       {
@@ -292,7 +292,7 @@ export const ROUTES = [
     "facts": [
       {
         "k": "Distance",
-        "v": "≈ 2,475 mi",
+        "v": "≈ 2,475 miles",
         "n": "JFK · EWR · LGA → LAX"
       },
       {
@@ -362,7 +362,7 @@ export const ROUTES = [
     "facts": [
       {
         "k": "Distance",
-        "v": "≈ 5,200 mi",
+        "v": "≈ 5,200 miles",
         "n": "SEA → ICN"
       },
       {
