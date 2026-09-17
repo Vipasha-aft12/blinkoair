@@ -1,0 +1,4 @@
+.opbar{border-top:1px solid var(--line);background:var(--surface-2)}
+.opbar .wrap{display:flex;align-items:center;gap:8px;padding:7px 20px;font-size:.8rem;color:var(--muted);line-height:1.4}
+.opbar strong{color:var(--ink-soft);font-weight:700}
+.opbar svg{width:15px;height:15px;color:var(--brand);flex:0 0 auto}

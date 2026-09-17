@@ -1,0 +1,8 @@
+/* .split + .aside-card are shared (globals.css). Only the fare-band table
+   (.snapshot), which appears inside route body content, lives here. */
+.snapshot{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.snapshot caption{caption-side:bottom;font-size:.78rem;color:var(--muted);padding:10px;text-align:left}
+.snapshot th,.snapshot td{padding:12px 14px;text-align:left;border-bottom:1px solid var(--line);font-size:.92rem}
+.snapshot thead th{background:var(--brand-tint);color:var(--brand-dark);font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.04em}
+.snapshot tbody tr:last-child td{border-bottom:none}
+.snapshot .badge{background:var(--ok-tint);color:var(--ok);font-size:.72rem;font-weight:700;padding:2px 8px;border-radius:999px}

@@ -1,0 +1,17 @@
+/* Sticky bottom call bar + the body padding that reserves space for it. */
+body{padding-bottom:76px}
+.callbar{
+  position:fixed;left:0;right:0;bottom:0;z-index:60;background:var(--surface);
+  border-top:1px solid var(--line);box-shadow:0 -6px 24px rgba(13,27,42,.12);
+  padding:9px 18px;display:flex;align-items:center;justify-content:space-between;gap:14px;
+}
+.callbar-trust{display:flex;gap:16px;flex-wrap:wrap;font-size:.82rem;color:var(--ink-soft);font-weight:600}
+.callbar-trust span{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.callbar-trust svg{width:15px;height:15px;color:var(--brand);flex:0 0 auto}
+.callbar-btn{white-space:nowrap;padding:12px 22px;font-size:1rem}
+@media (max-width:640px){
+  body{padding-bottom:120px}
+  .callbar{flex-direction:column;align-items:stretch;gap:7px;padding:8px 12px 10px}
+  .callbar-trust{justify-content:center;gap:12px;font-size:.72rem}
+  .callbar-btn{width:100%}
+}

@@ -1,0 +1,3 @@
+/* Hero base + badges live in globals.css (shared across page types).
+   This section adds only spacing tweaks unique to the hero-with-search block. */
+.hero .search-card{margin-top:2px}

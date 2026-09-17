@@ -1,0 +1,5 @@
+.deal-card{display:flex;flex-direction:column;color:inherit;transition:box-shadow .15s ease,transform .15s ease}
+.deal-card:hover{text-decoration:none;box-shadow:var(--shadow-md);transform:translateY(-2px)}
+.deal-card h3{margin-bottom:6px}
+.deal-card p{color:var(--muted);font-size:.9rem;flex:1;margin-bottom:10px}
+.deal-go{color:var(--accent);font-weight:700;font-size:.9rem}

@@ -1,0 +1,5 @@
+.ribbon{background:var(--brand-dark);color:#eaf4f7;font-size:.82rem}
+.ribbon .wrap{display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center;padding:8px 20px}
+.ribbon strong{color:#fff}
+.ribbon a{color:#ffd9c7;font-weight:600}
+.ribbon .dot{width:5px;height:5px;border-radius:50%;background:#4d8ea1;display:inline-block}

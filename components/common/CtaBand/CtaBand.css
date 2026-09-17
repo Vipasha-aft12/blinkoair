@@ -1,0 +1,9 @@
+.cta-band{background:linear-gradient(135deg,var(--brand),var(--brand-dark));color:#fff;border-radius:var(--radius-lg);padding:34px;display:flex;flex-wrap:wrap;gap:20px;align-items:center;justify-content:space-between}
+.cta-band h2{color:#fff;margin:0}
+.cta-band p{color:#cfe6ec;margin:6px 0 0}
+.cta-band .actions{display:flex;gap:12px;flex-wrap:wrap}
+@media (max-width:640px){
+  .cta-band{padding:24px}
+  .cta-band .actions{width:100%}
+  .cta-band .actions .btn{width:100%;justify-content:center}
+}

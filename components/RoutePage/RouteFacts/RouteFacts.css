@@ -1,0 +1,6 @@
+.route-facts{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:6px 0 4px}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px}
+.fact .k{font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:700}
+.fact .v{font-size:1.2rem;font-weight:800;color:var(--brand-dark);margin-top:3px}
+.fact .n{font-size:.78rem;color:var(--muted);margin-top:2px}
+@media (max-width:940px){ .route-facts{grid-template-columns:1fr 1fr} }

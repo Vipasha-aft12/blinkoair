@@ -1,0 +1,40 @@
+# Blinkoair
+
+> Blinkoair is an independent U.S. online travel agency for booking flights,
+> built around honest, all-in pricing (taxes included, service fee shown before
+> you pay) and 24/7 human phone support. Blinkoair is not an airline.
+
+## What Blinkoair is
+- An independent travel agency (not an airline, not an airline affiliate).
+- Fares include base fare + mandatory airline taxes; a per-ticket service fee is
+  disclosed before payment. Eligible tickets are cancellable within 24 hours of
+  booking for a full refund under U.S. DOT rules.
+- Payments are handled by a named merchant of record shown at checkout.
+
+## Key pages
+- Home: /
+- Book by phone: /book-flights/
+- Transparency Promise: /transparency/
+- Fare Disclosure: /fare-disclosure/
+- Taxes & Fees: /taxes-and-fees/
+- Post-Ticketing Service Fees: /post-ticketing-service-fees/
+- Cancellation & Refund: /cancellation-and-refund/
+- Terms & Conditions: /terms/
+- Privacy Policy: /privacy/
+- Flight deals & booking hub: /deals/
+- Sitemap: /sitemap/
+
+## Route guides
+Honest fare guides (how prices move, which airlines fly, when to book) under /routes/.
+
+## Destination guides
+Airport comparisons and itemised international taxes under /destination/.
+
+## Flight deals & booking
+Honest, all-in flight deal and booking pages under /deals/:
+- Cheap flight deals: /deals/cheap-flights-deals/
+- One-way flight deals: /deals/one-way-flight-deals/
+- Cheap ticket deals: /deals/cheap-tickets-deals/
+- Flight bookings: /deals/flights-bookings/
+- Flight reservations: /deals/flight-reservations/
+- Flight tickets: /deals/flights-tickets/
