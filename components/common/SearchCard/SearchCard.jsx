@@ -161,7 +161,7 @@ export default function SearchCard({ from = "", to = "" }) {
         </div>
       </form>
       <p className="fare-note" ref={noteRef}>
-        <strong>How our pricing works:</strong> the fare shown includes the base fare and all mandatory airline taxes — nothing is added after you pay. A per-ticket service fee of {SITE.serviceFeeMin}–{SITE.serviceFeeMax} applies to self-service bookings completed online and covers booking plus 24/7 human support. For human-assisted bookings (for example, by phone with a travel expert), the service fee may vary by itinerary and is always quoted and confirmed <em>before</em> you pay. Optional extras (seats, bags, upgrades) are always displayed and confirmed before checkout, payments are processed securely by our named merchant of record, and eligible tickets can be cancelled within 24 hours of booking for a full refund under U.S. DOT rules.
+        <strong>How our pricing works:</strong> the fare shown includes the base fare and all mandatory airline taxes. A service fee may apply to your booking, depending on how the booking is made and the itinerary. For human-assisted bookings, the applicable service fee is quoted and confirmed before you pay. Optional extras such as seats, bags, and upgrades are displayed separately and confirmed before checkout. Payments are processed securely by our named merchant of record. Eligible tickets may qualify for cancellation within 24 hours of booking for a full refund under applicable U.S. DOT rules. 
       </p>
     </div>
   );
